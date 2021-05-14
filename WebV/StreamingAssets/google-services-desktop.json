@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373203184026",
+    "project_id": "switchgg-25652",
+    "storage_bucket": "switchgg-25652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373203184026:android:f2bf089152d991ff7cb223",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.etSwitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373203184026-4s16nep67b21bq96h3g30ghh3pm7bo7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpyjQkfSb-XPKv4l3fmBciqis3hi7ZZDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373203184026-4s16nep67b21bq96h3g30ghh3pm7bo7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
